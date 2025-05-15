@@ -6,7 +6,7 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+This repo is for testing forking and practice comitting.
 
 Whose repo is it? Who is contributing to it?
 
