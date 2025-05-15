@@ -31,7 +31,7 @@ sonadora <- read_csv(here("data", "Temp_SonadoraGradient_Daily.csv"))
 
 Data from Hamilton et al. 2022. "Integrated multi-trophic aquaculture mitigates the effects of ocean acidification: Seaweeds raise system pH and improve growth of juvenile abalone." https://doi.org/10.1016/j.aquaculture.2022.738571
 
-## a. Questions and hypotheses
+## a. Questions and hypotheses 
 
 Question: How does pH predict abalone growth (measured in change in shell surface area per day, mm^-2^ d^-1^)?  
 
